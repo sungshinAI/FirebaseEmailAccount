@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "558862247103",
+    "project_id": "fir-emailaccount-dbdd5",
+    "storage_bucket": "fir-emailaccount-dbdd5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:558862247103:android:198e9efb4aec846ef6d20a",
+        "android_client_info": {
+          "package_name": "com.example.firebaseemailaccount"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "558862247103-vm2f2luo63ds2ac7vv0dnqfklicds095.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDnY6Qabfu7H792fFqg8J9b1hXQu5xNMvk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "558862247103-vm2f2luo63ds2ac7vv0dnqfklicds095.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
