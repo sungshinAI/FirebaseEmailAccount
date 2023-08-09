@@ -37,6 +37,6 @@ public class MainActivity extends AppCompatActivity {
         });
 
         // 탈퇴 처리
-        mFirebaseAuth.getCurrentUser().delete();
+        // mFirebaseAuth.getCurrentUser().delete();
     }
 }

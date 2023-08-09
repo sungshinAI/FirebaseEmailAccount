@@ -8,6 +8,7 @@ public class UserAccount {
      private String idToken; // Firebase Uid (고유 토큰 정보)
     private String emailId; // 이메일 아이디
     private String password; // 비밀번호
+    private String Name; // 이름
 
     public UserAccount() { } // Firebase Realtime을 쓸 때는 무조건 빈 생성자
 
@@ -33,5 +34,13 @@ public class UserAccount {
 
     public void setPassword(String password) {
         this.password = password;
+    }
+
+    public String getName() {
+        return Name;
+    }
+
+    public void setName(String name) {
+        Name = name;
     }
 }
